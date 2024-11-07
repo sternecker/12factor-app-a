@@ -35,7 +35,7 @@
         <version.maven-failsafe-plugin>2.18.1</version.maven-failsafe-plugin>
         <!-- OpenLiberty runtime -->
         <version.openliberty-runtime>RELEASE</version.openliberty-runtime>
-        <version.exec-maven-plugin>1.6.0</version.exec-maven-plugin>
+        <version.exec-maven-plugin>3.5.0</version.exec-maven-plugin>
 
     </properties>
 
