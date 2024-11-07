@@ -1,5 +1,4 @@
-FROM open-liberty:microProfile2
-MAINTAINER IBM Java engineering at IBM Cloud
+FROM open-liberty:microProfile6
 
 # The name of the server package file produced by the build
 ARG PACKAGE_FILE
